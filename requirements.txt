@@ -1,0 +1,2 @@
+# Dependências necessárias para o pipeline ETL
+pandas
