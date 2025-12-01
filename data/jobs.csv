@@ -1,0 +1,6 @@
+job_id,title,company,required_skills,location,level
+101,Data Engineer,Jupiter Tech,"python;sql;etl;airflow",Remoto,Sênior
+102,Frontend Developer,Olive Labs,"javascript;react;css;testing",São Paulo,Pleno
+103,ML Engineer,Nebula AI,"python;ml;nlp;docker",Remoto,Sênior
+104,DevOps Engineer,CloudForge,"cloud;devops;docker;kubernetes",Híbrido,Pleno
+105,Data Analyst,Atlas Insights,"sql;python;bi",Remoto,Júnior
